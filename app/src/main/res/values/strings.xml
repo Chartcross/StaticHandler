@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Static Handler</string>
+    <string name="send_message">Send Message</string>
+</resources>
